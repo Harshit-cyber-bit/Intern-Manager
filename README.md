@@ -21,7 +21,7 @@ Options Global options:
 --help: Display the help message. 
 --version: Print the script version.
 
-file getinfo options: 
+file getinfo options: <br>
 --size, -s: Print the file size in bytes. 
 --permissions, -p: Show file access permissions. 
 --owner, -o: Display the file owner username. 
