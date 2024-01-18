@@ -2,9 +2,9 @@
 A command-line tool for server administration tasks.<br>
 
 Overview internsctl provides a convenient way to manage various server-related tasks, including:<br> 
--Retrieving system information (CPU, memory)<br> 
--Managing users (creating, listing)<br> 
--Obtaining file details<br>
+- Retrieving system information (CPU, memory)<br> 
+- Managing users (creating, listing)<br> 
+- Obtaining file details<br>
 
 Make the script executable: <br> 
 >chmod +x internsctl<br>
