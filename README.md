@@ -2,9 +2,9 @@
 A command-line tool for server administration tasks.<br>
 
 Overview internsctl provides a convenient way to manage various server-related tasks, including:<br> 
-Retrieving system information (CPU, memory)<br> 
-Managing users (creating, listing)<br> 
-Obtaining file details<br>
+-Retrieving system information (CPU, memory)<br> 
+-Managing users (creating, listing)<br> 
+-Obtaining file details<br>
 
 Make the script executable: <br> 
 >chmod +x internsctl<br>
@@ -12,7 +12,7 @@ Make the script executable: <br>
 For using tool globally in linux terminal, move the script to /usr/local/bin with root user.<br>
 
 For installing manual page of this tool: <br> 
-sudo install -g 0 -o 0 -m 0644 internsctl.1 /usr/share/man/man1/<br>
+>sudo install -g 0 -o 0 -m 0644 internsctl.1 /usr/share/man/man1/<br>
 
 Usage:<br>
 >internsctl [options] [arguments]<br>
