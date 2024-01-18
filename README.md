@@ -14,10 +14,10 @@ For using tool globally in linux terminal, move the script to /usr/local/bin wit
 For installing manual page of this tool: <br> 
 sudo install -g 0 -o 0 -m 0644 internsctl.1 /usr/share/man/man1/<br>
 
-Usage:<br>  
-internsctl [options] [arguments]<br>
+>Usage:<br>
+>internsctl [options] [arguments]<br>
 
-Commands: cpu getinfo: Get detailed CPU information.<br> 
+>Commands: cpu getinfo: Get detailed CPU information.<br> 
 memory getinfo: Display memory usage information.<br> 
 user create : Create a new user with a home directory.<br> 
 user list [--sudo-only]: List all users or only those with sudo privileges.<br> 
